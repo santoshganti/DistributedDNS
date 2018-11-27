@@ -1,0 +1,3 @@
+- Install dep - brew install dep; brew upgrade dep
+- To install dependencies - cd src/pakckage; dep ensure
+- To add dependencies - cd src/package; dep ensure --add github.com/add/x
